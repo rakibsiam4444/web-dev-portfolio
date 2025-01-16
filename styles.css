@@ -1,0 +1,19 @@
+/* nav style */
+
+
+.work-sans{
+  font-family: "Work Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+nav{
+    display: flex;
+}
+.title{
+    font-weight: 800;
+    font-size: 45px;
+}
+.r{
+    color: darkorange;
+}
